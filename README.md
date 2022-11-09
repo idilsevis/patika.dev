@@ -39,6 +39,78 @@ O(nlogn)
    7nin sagina 8     7 nin soluna 5    5in soluna 1  1in sagina 3    1in soluna 0     5 in sagina 6    8in sagina 9*
    7nin sagina 8     7 nin soluna 5    5in soluna 1  1in sagina 3    1in soluna 0     5 in sagina 6    8in sagina 9    3un sagina 4*
    7nin sagina 8     7 nin soluna 5    5in soluna 1  1in sagina 3    1in soluna 0     5 in sagina 6    8in sagina 9    3un sagina 4    3ub soluna 2*
+   
+   
+      7
+  /
+ 5 
+  
+
+    7
+   /
+  5
+ /
+1 
+
+
+    7
+   / \
+  5   8
+ /
+1 
+
+
+    7
+   / \
+  5   8
+ / 
+1  
+ \
+  3
+
+
+      7
+     / \
+    5   8
+   / \
+  1   6
+ / \
+0   3
+
+
+      7
+     / \
+    5   8
+   / \   \
+  1   6   9
+ / \
+0   3
+
+
+      7
+     / \
+    5   8
+   / \   \
+  1   6   9
+ / \
+0   3
+     \
+      4
+
+
+      7
+     / \
+    5   8
+   / \   \
+  1   6   9
+ / \
+0   3
+   / \
+  2   4
+
+
+
+
 
  
       
