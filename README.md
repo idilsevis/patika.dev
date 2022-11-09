@@ -1,4 +1,4 @@
-# patika.dev
+# www.patika.dev
 # [22,27,16,2,18,6] Insertion Sort 
 minimum=2	2 & 22 change their place [2, | 27, 16, 22, 18, 6] 
 minimum=6 6 & 27 change their place [2, 6, | 16, 22, 18, 27] 
